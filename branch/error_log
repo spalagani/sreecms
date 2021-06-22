@@ -1,0 +1,2 @@
+[30-May-2020 21:13:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/branch/view.php on line 88
+[30-May-2020 11:05:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/sreecorp/public_html/cms/branch/edit-branch.php on line 155

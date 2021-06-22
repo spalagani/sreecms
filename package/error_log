@@ -1,0 +1,8 @@
+[25-May-2020 01:39:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/cms/head.php:10) in /home2/sreecorp/public_html/cms/package/add-package.php on line 17
+[25-May-2020 02:35:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home2/sreecorp/public_html/cms/package/edit-package.php on line 33
+[25-May-2020 02:50:56 Asia/Kolkata] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home2/sreecorp/public_html/cms/package/edit-package.php on line 41
+[25-May-2020 02:51:19 Asia/Kolkata] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, string given in /home2/sreecorp/public_html/cms/package/edit-package.php on line 41
+[29-May-2020 20:39:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/package/view.php on line 88
+[29-May-2020 20:39:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/package/view.php on line 88
+[29-May-2020 20:39:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/package/view.php on line 88
+[29-May-2020 20:40:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/package/view.php on line 88

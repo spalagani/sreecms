@@ -1,0 +1,360 @@
+[29-Mar-2020 12:06:03 America/Chicago] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[29-Mar-2020 12:06:03 America/Chicago] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[29-Mar-2020 12:06:03 America/Chicago] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[29-Mar-2020 12:06:04 America/Chicago] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[29-Mar-2020 12:06:04 America/Chicago] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[29-Mar-2020 12:06:04 America/Chicago] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/sreecorp/public_html/bb/user/search.php on line 2
+[01-Apr-2020 00:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/sreecorp/public_html/bb/user/payment.php on line 184
+[02-Apr-2020 02:41:43 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home2/sreecorp/public_html/bb/user/payment.php on line 109
+[02-Apr-2020 13:57:32 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home2/sreecorp/public_html/bb/user/payment.php on line 245
+[02-Apr-2020 14:04:37 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 248
+[02-Apr-2020 03:35:15 America/Chicago] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER) in /home2/sreecorp/public_html/bb/user/payment.php on line 244
+[02-Apr-2020 14:05:30 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 246
+[02-Apr-2020 14:06:09 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 246
+[02-Apr-2020 14:06:12 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 246
+[02-Apr-2020 14:06:47 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 247
+[02-Apr-2020 14:11:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 27
+[02-Apr-2020 14:11:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 37
+[02-Apr-2020 14:12:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 33
+[02-Apr-2020 14:12:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 43
+[02-Apr-2020 15:04:28 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home2/sreecorp/public_html/bb/user/payment.php on line 31
+[02-Apr-2020 15:11:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home2/sreecorp/public_html/bb/user/payment.php on line 284
+[02-Apr-2020 04:56:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/bb/user/payment.php on line 71
+[02-Apr-2020 15:26:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 74
+[02-Apr-2020 16:27:54 Asia/Kolkata] PHP Warning:  move_uploaded_file(http://sreecorp.com/bb/user_paymentsdownloaddfd.jpg/5e85c53280808_103650_1585825074.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/sreecorp/public_html/bb/user/payment.php on line 31
+[02-Apr-2020 16:27:54 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcsGwpV' to 'http://sreecorp.com/bb/user_paymentsdownloaddfd.jpg/5e85c53280808_103650_1585825074.jpg' in /home2/sreecorp/public_html/bb/user/payment.php on line 31
+[02-Apr-2020 16:30:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(http://sreecorp.com/bb/user_payments/downloaddfd.jpg5e85c5c62d0ca_103650_1585825222.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/sreecorp/public_html/bb/user/payment.php on line 31
+[02-Apr-2020 16:30:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcCPJBc' to 'http://sreecorp.com/bb/user_payments/downloaddfd.jpg5e85c5c62d0ca_103650_1585825222.jpg' in /home2/sreecorp/public_html/bb/user/payment.php on line 31
+[02-Apr-2020 16:35:11 Asia/Kolkata] PHP Warning:  move_uploaded_file(http://sreecorp.com/bb/user_payments/downloaddfd.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/sreecorp/public_html/bb/user/payment.php on line 40
+[02-Apr-2020 16:35:11 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpi4zodC' to 'http://sreecorp.com/bb/user_payments/downloaddfd.jpg' in /home2/sreecorp/public_html/bb/user/payment.php on line 40
+[02-Apr-2020 16:36:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(http://sreecorp.com/bb/user_payments/downloaddfd.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/sreecorp/public_html/bb/user/payment.php on line 40
+[02-Apr-2020 16:36:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpt47itn' to 'http://sreecorp.com/bb/user_payments/downloaddfd.jpg' in /home2/sreecorp/public_html/bb/user/payment.php on line 40
+[02-Apr-2020 21:23:22 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 10
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'month' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 131
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'extra_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 132
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_date' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 133
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'paid_amount' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 134
+[02-Apr-2020 21:42:55 Asia/Kolkata] PHP Warning:  Illegal string offset 'payment_proof_attach' in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 135
+[02-Apr-2020 23:55:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 94
+[02-Apr-2020 23:55:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 94
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 213
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 215
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 217
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 219
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 221
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 223
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 225
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 227
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 229
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 231
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 233
+[03-Apr-2020 00:02:49 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home2/sreecorp/public_html/bb/user/payment.php on line 235
+[02-Apr-2020 13:34:38 America/Chicago] PHP Parse error:  syntax error, unexpected '"feb"' (T_CONSTANT_ENCAPSED_STRING) in /home2/sreecorp/public_html/bb/user/payment.php on line 215
+[02-Apr-2020 13:34:54 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/sreecorp/public_html/bb/user/payment.php on line 215
+[03-Apr-2020 00:26:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/sreecorp/public_html/bb/user/payment.php on line 198
+[03-Apr-2020 13:38:17 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/user-payment-history.php on line 12
+[03-Apr-2020 08:59:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'content' (T_STRING) in /home2/sreecorp/public_html/bb/user/payment.php on line 168
+[03-Apr-2020 08:59:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'content' (T_STRING) in /home2/sreecorp/public_html/bb/user/payment.php on line 168
+[04-Apr-2020 17:37:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/bb/head.php:10) in /home2/sreecorp/public_html/bb/user/invoice.php on line 19
+[04-Apr-2020 17:40:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/bb/head.php:10) in /home2/sreecorp/public_html/bb/user/invoice.php on line 30
+[04-Apr-2020 17:41:23 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/bb/head.php:10) in /home2/sreecorp/public_html/bb/user/invoice.php on line 30
+[04-Apr-2020 17:42:04 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/bb/head.php:10) in /home2/sreecorp/public_html/bb/user/invoice.php on line 30
+[04-Apr-2020 18:22:31 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/invoice.php on line 25
+[04-Apr-2020 18:23:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/invoice.php on line 25
+[04-Apr-2020 18:25:54 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/invoice.php on line 25
+[06-Apr-2020 19:50:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 19:50:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 19:59:40 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 19:59:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 19:59:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 19:59:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:00:00 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 20:00:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:00:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 20:00:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:02:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 20:02:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:02:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 20:02:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:02:52 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 83
+[06-Apr-2020 20:02:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 97
+[06-Apr-2020 20:03:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 85
+[06-Apr-2020 20:03:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/payment.php on line 99
+[07-Apr-2020 17:26:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/bb/user/invoice.php on line 45
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Outage in /home2/sreecorp/public_html/bb/user/user_process.php on line 203
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Account_Type in /home2/sreecorp/public_html/bb/user/user_process.php on line 204
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Franchise_Name in /home2/sreecorp/public_html/bb/user/user_process.php on line 205
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: MAC in /home2/sreecorp/public_html/bb/user/user_process.php on line 206
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Sub_Package in /home2/sreecorp/public_html/bb/user/user_process.php on line 207
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: IpAddress in /home2/sreecorp/public_html/bb/user/user_process.php on line 208
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Expiry_Date in /home2/sreecorp/public_html/bb/user/user_process.php on line 209
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Last_Renewal in /home2/sreecorp/public_html/bb/user/user_process.php on line 210
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: FUP_Limit in /home2/sreecorp/public_html/bb/user/user_process.php on line 211
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Area in /home2/sreecorp/public_html/bb/user/user_process.php on line 212
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Colony in /home2/sreecorp/public_html/bb/user/user_process.php on line 213
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Building in /home2/sreecorp/public_html/bb/user/user_process.php on line 214
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Node in /home2/sreecorp/public_html/bb/user/user_process.php on line 215
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Pop in /home2/sreecorp/public_html/bb/user/user_process.php on line 216
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Switch in /home2/sreecorp/public_html/bb/user/user_process.php on line 217
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Door_No in /home2/sreecorp/public_html/bb/user/user_process.php on line 218
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Billing_Address in /home2/sreecorp/public_html/bb/user/user_process.php on line 219
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: GSTIN in /home2/sreecorp/public_html/bb/user/user_process.php on line 220
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: NAS_IP in /home2/sreecorp/public_html/bb/user/user_process.php on line 221
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: POP_Tech_Exe in /home2/sreecorp/public_html/bb/user/user_process.php on line 222
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: POP_Coll_Exe in /home2/sreecorp/public_html/bb/user/user_process.php on line 223
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Last_Payment_Source in /home2/sreecorp/public_html/bb/user/user_process.php on line 224
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Balance_Amount in /home2/sreecorp/public_html/bb/user/user_process.php on line 225
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Nas_Port_Id in /home2/sreecorp/public_html/bb/user/user_process.php on line 227
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Spl_Discount in /home2/sreecorp/public_html/bb/user/user_process.php on line 228
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Add_Charges in /home2/sreecorp/public_html/bb/user/user_process.php on line 229
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Latitude in /home2/sreecorp/public_html/bb/user/user_process.php on line 230
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Longitude in /home2/sreecorp/public_html/bb/user/user_process.php on line 231
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Auto_Renew in /home2/sreecorp/public_html/bb/user/user_process.php on line 232
+[18-Apr-2020 14:39:39 Asia/Kolkata] PHP Notice:  Undefined index: Connection_Type in /home2/sreecorp/public_html/bb/user/user_process.php on line 233
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Outage in /home2/sreecorp/public_html/bb/user/user_process.php on line 203
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Account_Type in /home2/sreecorp/public_html/bb/user/user_process.php on line 204
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Franchise_Name in /home2/sreecorp/public_html/bb/user/user_process.php on line 205
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: MAC in /home2/sreecorp/public_html/bb/user/user_process.php on line 206
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Sub_Package in /home2/sreecorp/public_html/bb/user/user_process.php on line 207
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: IpAddress in /home2/sreecorp/public_html/bb/user/user_process.php on line 208
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Expiry_Date in /home2/sreecorp/public_html/bb/user/user_process.php on line 209
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Last_Renewal in /home2/sreecorp/public_html/bb/user/user_process.php on line 210
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: FUP_Limit in /home2/sreecorp/public_html/bb/user/user_process.php on line 211
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Area in /home2/sreecorp/public_html/bb/user/user_process.php on line 212
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Colony in /home2/sreecorp/public_html/bb/user/user_process.php on line 213
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Building in /home2/sreecorp/public_html/bb/user/user_process.php on line 214
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Node in /home2/sreecorp/public_html/bb/user/user_process.php on line 215
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Pop in /home2/sreecorp/public_html/bb/user/user_process.php on line 216
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Switch in /home2/sreecorp/public_html/bb/user/user_process.php on line 217
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Door_No in /home2/sreecorp/public_html/bb/user/user_process.php on line 218
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Billing_Address in /home2/sreecorp/public_html/bb/user/user_process.php on line 219
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: GSTIN in /home2/sreecorp/public_html/bb/user/user_process.php on line 220
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: NAS_IP in /home2/sreecorp/public_html/bb/user/user_process.php on line 221
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: POP_Tech_Exe in /home2/sreecorp/public_html/bb/user/user_process.php on line 222
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: POP_Coll_Exe in /home2/sreecorp/public_html/bb/user/user_process.php on line 223
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Last_Payment_Source in /home2/sreecorp/public_html/bb/user/user_process.php on line 224
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Balance_Amount in /home2/sreecorp/public_html/bb/user/user_process.php on line 225
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Nas_Port_Id in /home2/sreecorp/public_html/bb/user/user_process.php on line 227
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Spl_Discount in /home2/sreecorp/public_html/bb/user/user_process.php on line 228
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Add_Charges in /home2/sreecorp/public_html/bb/user/user_process.php on line 229
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Latitude in /home2/sreecorp/public_html/bb/user/user_process.php on line 230
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Longitude in /home2/sreecorp/public_html/bb/user/user_process.php on line 231
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Auto_Renew in /home2/sreecorp/public_html/bb/user/user_process.php on line 232
+[18-Apr-2020 14:57:13 Asia/Kolkata] PHP Notice:  Undefined index: Connection_Type in /home2/sreecorp/public_html/bb/user/user_process.php on line 233
+[19-Apr-2020 06:19:22 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:19:22 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:04 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:04 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:24 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:24 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:57 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[19-Apr-2020 06:20:57 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[27-Apr-2020 16:46:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[27-Apr-2020 16:46:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[28-Apr-2020 10:18:08 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[28-Apr-2020 10:18:08 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[28-Apr-2020 10:18:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[28-Apr-2020 10:18:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[23-May-2020 17:14:03 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfW95Dk' to '/home2/sreecorp/public_html/cms/user_payments/9849858586_2020_mar.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 17:19:05 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEAdXjM' to '/home2/sreecorp/public_html/cms/user_payments/9985119313_2019_april.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 17:20:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjsiOlw' to '/home2/sreecorp/public_html/cms/user_payments/9985119313_2020_jan.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 17:43:02 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdy5eoN' to '/home2/sreecorp/public_html/cms/user_payments/9703924444_2020_may.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 17:58:17 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpER1Pk3' to '/home2/sreecorp/public_html/cms/user_payments/9440001671_2019_may.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 17:59:21 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVw0yh2' to '/home2/sreecorp/public_html/cms/user_payments/9440001671_2020_jan.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 18:04:08 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGEBvVO' to '/home2/sreecorp/public_html/cms/user_payments/9966013899_2020_may.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 18:07:10 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpg5EQNJ' to '/home2/sreecorp/public_html/cms/user_payments/8099625888_2020_may.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-May-2020 18:09:09 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8JBVHY' to '/home2/sreecorp/public_html/cms/user_payments/8019619419_2020_may.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[25-May-2020 01:05:55 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:05:55 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:24 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:24 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:43 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:06:43 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:07:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 01:07:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 02:07:01 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 02:07:01 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 02:07:35 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[25-May-2020 02:07:35 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[03-Jun-2020 22:46:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"</option>"' (T_CONSTANT_ENCAPSED_STRING) in /home2/sreecorp/public_html/cms/user/changepackage.php on line 79
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:21:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 99
+[09-Jun-2020 11:22:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/excel_import_ajax.php on line 110
+[11-Sep-2020 20:09:54 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home2/sreecorp/public_html/cms/conn.php on line 9
+[11-Sep-2020 20:09:54 Asia/Kolkata] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 5
+[11-Sep-2020 20:09:54 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 6
+[11-Sep-2020 20:09:54 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_array() on null in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 7
+[11-Sep-2020 09:40:01 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home2/sreecorp/public_html/cms/conn.php on line 9
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/sreecorp/public_html/cms/conn.php:9) in /home2/sreecorp/public_html/cms/valid.php on line 3
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home2/sreecorp/public_html/cms/user/user-details.php on line 9
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sreecorp/public_html/cms/user/user-details.php on line 11
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home2/sreecorp/public_html/cms/conn.php on line 9
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 5
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 6
+[11-Sep-2020 20:10:01 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_array() on null in /home2/sreecorp/public_html/cms/loginUserDetails.php on line 7
+[23-Sep-2020 21:55:22 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php24lypO' to '/home2/sreecorp/public_html/cms/user_payments/8985107516_2020_july.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 21:56:09 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxYOxfq' to '/home2/sreecorp/public_html/cms/user_payments/8985107516_2021_jan.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 21:58:19 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnYuCMT' to '/home2/sreecorp/public_html/cms/user_payments/9573405789_2020_sep.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 21:59:09 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6P9NZA' to '/home2/sreecorp/public_html/cms/user_payments/9573405789_2021_jan.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 22:00:16 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj8XTR8' to '/home2/sreecorp/public_html/cms/user_payments/9566105866_2020_sep.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 22:01:31 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppAsF4F' to '/home2/sreecorp/public_html/cms/user_payments/9441022545_2020_aug.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[23-Sep-2020 22:03:27 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwAOF2c' to '/home2/sreecorp/public_html/cms/user_payments/9963318365_2020_june.jpg' in /home2/sreecorp/public_html/cms/user/payment.php on line 29
+[01-Oct-2020 20:02:39 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3LRWr5' to '/home2/sreecorp/public_html[13-Mar-2021 19:06:05 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[13-Mar-2021 19:06:05 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[13-Mar-2021 19:06:06 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[13-Mar-2021 19:06:06 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home2/sreecorp/public_html/cms/valid.php on line 3
+[14-Mar-2021 20:20:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 371
+[14-Mar-2021 20:20:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 371
+[14-Mar-2021 20:22:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 371
+[14-Mar-2021 20:22:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 413
+[14-Mar-2021 20:22:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 607
+[14-Mar-2021 20:23:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Adapter/CPDF.php on line 194
+[14-Mar-2021 20:30:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home2/sreecorp/public_html/cms/user/dompdf/src/Dompdf.php on line 371
+[14-Mar-2021 10:14:06 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 62
+[14-Mar-2021 20:55:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/cms/user/invoice_download.php:64) in /home2/sreecorp/public_html/cms/user/dompdf/dompdf/src/Adapter/CPDF.php on line 1146
+[14-Mar-2021 20:55:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/cms/user/invoice_download.php:64) in /home2/sreecorp/public_html/cms/user/dompdf/dompdf/src/Adapter/CPDF.php on line 1147
+[14-Mar-2021 20:55:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/cms/user/invoice_download.php:64) in /home2/sreecorp/public_html/cms/user/dompdf/dompdf/src/Adapter/CPDF.php on line 1148
+[14-Mar-2021 20:55:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sreecorp/public_html/cms/user/invoice_download.php:64) in /home2/sreecorp/public_html/cms/user/dompdf/dompdf/src/Adapter/CPDF.php on line 1152
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/user-payment-history.php on line 11
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice.php on line 19
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice.php on line 27
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice.php on line 45
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/user-payment-history.php on line 11
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/user-payment-history.php on line 11
+[14-Mar-2021 21:35:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/user-payment-history.php on line 11
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[14-Mar-2021 22:07:53 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[14-Mar-2021 22:11:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[14-Mar-2021 22:11:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[14-Mar-2021 22:11:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[14-Mar-2021 22:14:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/user-payment-history.php on line 11
+[15-Mar-2021 17:28:38 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 280
+[15-Mar-2021 17:28:46 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 280
+[15-Mar-2021 17:30:21 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 281
+[15-Mar-2021 17:30:24 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 281
+[15-Mar-2021 17:30:40 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 282
+[15-Mar-2021 17:30:43 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 282
+[15-Mar-2021 17:31:10 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 286
+[15-Mar-2021 17:32:15 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 282
+[15-Mar-2021 17:52:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[15-Mar-2021 17:52:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[15-Mar-2021 17:52:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[15-Mar-2021 17:56:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[15-Mar-2021 18:37:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[15-Mar-2021 18:37:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[15-Mar-2021 18:37:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
+[15-Mar-2021 18:43:52 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 23
+[15-Mar-2021 18:43:52 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 31
+[15-Mar-2021 18:43:52 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/sreecorp/public_html/cms/user/invoice_download.php on line 49
